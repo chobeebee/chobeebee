@@ -27,14 +27,14 @@
   <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobeebee&layout=compact&show_icons=true&show_owner=false" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/chobeebee">
   <img height="120" src="https://github-readme-stats.vercel.app/api?username=chobeebee&theme=vue&hide=issues,prs" />
 </a>
 
 <p>&#160;</p>
 
 ### 🕹️Github Activity
-<a href="https://github.com/chobeebee/gitanimals">
+<a href="https://github.com/chobeebee">
   <img src="https://render.gitanimals.org/farms/chobeebee" height="340" />
 </a>
 
