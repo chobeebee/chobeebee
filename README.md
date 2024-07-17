@@ -11,6 +11,9 @@
 ![MYSQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/chobeebee" width="1000" height="240" />
+</a>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
