@@ -1,10 +1,10 @@
 <h1>👋🌝안녕하세요!</h1>
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=1665BB&repeat=false&width=435&height=120&lines=I+am+chobeebee!)](https://git.io/typing-svg)-->
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=1665BB&repeat=false&width=435&height=110&lines=I+am+chobeebee!)](https://git.io/typing-svg)-->
 
 <p>&#160;</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=F6780E&repeat=false&random=true&width=435&height=120&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=2400&pause=1000&color=F6780E&repeat=false&random=true&width=440&height=120&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 
 ### 🗂️Tech Stack
