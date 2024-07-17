@@ -1,5 +1,11 @@
 <h1>👋🌝안녕하세요!</h1>
 
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=1665BB&repeat=false&width=435&height=120&lines=I+am+chobeebee!)](https://git.io/typing-svg)-->
+
+<p>&#160;</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=F6780E&repeat=false&width=435&height=90&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
+
 
 ### 🗂️Tech Stack
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -13,9 +19,7 @@
 ![JQUERY](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
-
+<p>&#160;</p>
 
 <!-- <h3>💡 My Most Used Languages 💡</h3> -->
 ### ⌨️Used Languages & Stats
@@ -23,17 +27,11 @@
   <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobeebee&layout=compact&show_icons=true&show_owner=false" />
 </a>
 
-
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="120" src="https://github-readme-stats.vercel.app/api?username=chobeebee&theme=vue&hide=issues,prs" />
 </a>
 
-
-
-
+<p>&#160;</p>
 
 ### 🕹️Github Activity
 <a href="https://github.com/chobeebee/gitanimals">
