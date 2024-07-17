@@ -1,4 +1,4 @@
-## 안녕하세요!👋
+## 🌝안녕하세요!
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -11,33 +11,22 @@
 ![JQUERY](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
+<!-- <h3>💡 My Most Used Languages 💡</h3> -->
+<a href="https://github.com/chobeebee">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobeebee&layout=compact&show_icons=true&show_owner=false" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=chobeebee&theme=vue&hide=issues,prs" />
+</a>
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/chobeebee" width="100%" max-height="400" />
+  <img src="https://render.gitanimals.org/farms/chobeebee" height="340" />
 </a>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/chobeebee">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobeebee&layout=compact&show_icons=true&show_owner=false" />
-  </a>
-</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chobeebee&theme=vue" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chobeebee&layout=compact&langs_count=8&card_width=320" />
-</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 <!--
 **chobeebee/chobeebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
