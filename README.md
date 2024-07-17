@@ -1,5 +1,7 @@
-## 🌝안녕하세요!
+<h1>👋🌝안녕하세요!</h1>
 
+
+### 🗂️Tech Stack
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -12,18 +14,33 @@
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+
+
+
 <!-- <h3>💡 My Most Used Languages 💡</h3> -->
+### ⌨️Used Languages & Stats
 <a href="https://github.com/chobeebee">
   <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobeebee&layout=compact&show_icons=true&show_owner=false" />
 </a>
+
+
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="120" src="https://github-readme-stats.vercel.app/api?username=chobeebee&theme=vue&hide=issues,prs" />
 </a>
 
-<a href="https://github.com/devxb/gitanimals">
+
+
+
+
+### 🕹️Github Activity
+<a href="https://github.com/chobeebee/gitanimals">
   <img src="https://render.gitanimals.org/farms/chobeebee" height="340" />
 </a>
+
+
 
 
 
