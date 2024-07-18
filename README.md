@@ -4,7 +4,7 @@
 
 <p>&#160;</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=2600&pause=1800&color=F6780E&repeat=true&random=true&width=440&height=120&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=2600&pause=1800&color=F6780E&repeat=true&random=true&width=580&height=120&lines=Welcome+to+chobebee+Github!)](https://git.io/typing-svg)
 
 
 ### 🗂️Tech Stack
@@ -37,9 +37,6 @@
 <a href="https://github.com/chobeebee">
   <img src="https://render.gitanimals.org/farms/chobeebee" height="340" />
 </a>
-
-
-
 
 
 
